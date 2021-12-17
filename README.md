@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm full stack developer working remotely.
 [![doctorrr's GitHub stats](https://alexbabak.com/s/babak_mirrors.jpg)](https://alexbabak.com)
-<h3>Feel free to chat with me! Contacts availible here: https://babak.ru</h3>
+<h3>Feel free to chat with me! My website: https://AlexBabak.com</h3>
 
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctorrr&show_icons=true&locale=en&layout=compact" alt="doctorrr" /></p>
