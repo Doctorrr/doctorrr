@@ -1,4 +1,4 @@
-### Hi there 👋 I'm full stack developer working remotely.
+### Hi there 👋 I'm full stack Developer/Architect working remotely.
 [![doctorrr's GitHub stats](https://alexbabak.com/s/babak_mirrors.jpg)](https://alexbabak.com)
 <h3>Feel free to chat with me! My website: https://AlexBabak.com</h3>
 
